@@ -2,14 +2,32 @@
   "projects": [
     {
       "name": "Mais um teste",
-      "budget": "998",
+      "budget": "1020",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 115,
+      "services": [
+        {
+          "name": "limpeza",
+          "cost": "115",
+          "description": "geral",
+          "id": "f2fb4522-690f-41a8-a76d-50f996e4412e"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "Projeto de teste",
+      "budget": "999",
+      "category": {
+        "id": "5",
+        "name": "Marketing"
       },
       "cost": 0,
       "services": [],
-      "id": 9
+      "id": 10
     }
   ],
   "categories": [
